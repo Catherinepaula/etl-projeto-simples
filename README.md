@@ -67,4 +67,4 @@ etl-projeto-simples/
 ## 🙋‍♀️ Sobre
 
 Este projeto foi desenvolvido por **Catherine** como parte dos estudos em Ciência de Dados e Análise de Dados na EBAC.  
-📧 Entre em contato: [seu-email ou LinkedIn aqui]
+
